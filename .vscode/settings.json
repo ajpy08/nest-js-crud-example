@@ -1,0 +1,8 @@
+{
+  "eslint.run": "onSave",
+  "eslint.runtime": "",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": ["javascript"]
+}
